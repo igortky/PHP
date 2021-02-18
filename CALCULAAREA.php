@@ -1,4 +1,6 @@
-  function CALCULAAREA($Area){
+<?php 
+
+function CALCULAAREA($Area){
     
    if ($Area == 1)
     return 1;
