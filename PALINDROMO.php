@@ -2,7 +2,7 @@
 function PALINDROMO($STR){
    
       if($STR == strrev($STR) || strlen($STR)== 1) {
-              return false;
+              return true;
             }
       else {
               return false;
